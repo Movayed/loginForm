@@ -1,0 +1,10 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+#divv{
+    background: rgb(0,57,61);
+    background: linear-gradient(151deg, rgba(0,57,61,1) 53%, rgb(1, 50, 68) 50%); 
+}
